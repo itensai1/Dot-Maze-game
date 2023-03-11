@@ -1,5 +1,5 @@
 # Dot-Maze-game
-A simple graphical game I built with turtle module when I was learning python.
+<h3>A simple graphical game I built with turtle module when I was learning python.</h3>
 
 
 In this game there are 2 players, Red and Blue.
